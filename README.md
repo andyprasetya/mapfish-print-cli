@@ -1,2 +1,2 @@
 # mapfish-print-cli
-A Command Prompt-based CLI for MapFish Print Report Development
+A Command Prompt-based CLI Workshop for MapFish Print Report Development
